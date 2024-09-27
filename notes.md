@@ -29,6 +29,7 @@
   - [ ] networking
   - [ ] docker
   - [ ] kubernetes
+  - [ ] AWS
 - [ ] Frontend
   - [ ] JS
   - [ ] React
@@ -37,10 +38,15 @@
   - [ ] Prometheus
   - [ ] Grafana
   - [ ] observability ans opentelemetry
+- [ ] System Design
+  - [ ] Low level
+  - [ ] High level
+- [ ] Server Internals
+  - [ ] OS
 - [ ] Productivity
   - [ ] typing speed
   - [ ] neovim
-  - [ ] cheat
+  - [ ] shorcuts
 
 
 
