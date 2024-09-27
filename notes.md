@@ -58,7 +58,7 @@
 
 
 
-## Side hustles
+## Source of Income
 - [X] Corportate Job
 - [ ] Teaching
   - [ ] Youtube
