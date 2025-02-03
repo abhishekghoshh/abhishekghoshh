@@ -24,8 +24,9 @@ Here's an overview of my activity and contributions:
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekghoshh&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## My future projects
+## Projects to complete:
 
+- **portfolio**: My personal portfolio using mkdocs
 - **feather**: Dependency Injection framework in java/scala/python
 - **hello**: A Distributed chat application
 - **man in middle**: A microservice to for mocking responses and for microservice testing
