@@ -32,4 +32,4 @@ Here's an overview of my activity and contributions:
 - **man in middle**: A microservice to for mocking responses and for microservice testing
 - **forge**: A compiler written in C/Zig/rust
 - **knight**: A password manager application
-- **matrix**: use a docker container to code and then run it there
+- **matrix**: a vscode plugin to code and debug and then run it inside a a docker container
