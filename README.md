@@ -22,3 +22,11 @@ Here's an overview of my activity and contributions:
 ## 🏅 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekghoshh&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## My future projects
+
+- **feather**: Dependency Injection framework in java/scala/python
+- **hello**: A Distributed chat application
+- **man in middle**: A microservice to for mocking responses and for microservice testing
+- **Forge**: A compiler written in C/Zig/rust
