@@ -33,3 +33,4 @@ Here's an overview of my activity and contributions:
 - **forge**: A compiler written in C/Zig/rust
 - **knight**: A password manager application
 - **matrix**: a vscode plugin to code and debug and then run it inside a a docker container
+- **mernal**: A minimal kernal written in C
