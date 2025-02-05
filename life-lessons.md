@@ -70,7 +70,9 @@ In the engaging video titled "40 Life Lessons Learned at 43," the creator shares
 
 36. **Challenge Yourself Daily**: Set aside time each day to take on one difficult task; this practice promotes personal growth, resilience, and a sense of accomplishment over time.
 
-37. **Maximize Paid Time Off (PTO)**: Don’t hesitate to fully utilize vacation time; taking breaks is essential for recharging energy levels and maintaining long-term productivity in both work and life.
+37. **Save the easiest tasks for the end of the workday:** This allows you to leave on time.  Tackling simple tasks at the end of the day can help you wind down and feel productive.
+
+38. **Maximize Paid Time Off (PTO)**: Don’t hesitate to fully utilize vacation time; taking breaks is essential for recharging energy levels and maintaining long-term productivity in both work and life.
 
 ### Time Management
 39. **Prioritize Relationships Over Tasks**: Recognize that relationships are more important than mere productivity metrics; investing time in people leads to deeper connections and greater fulfillment in life.
