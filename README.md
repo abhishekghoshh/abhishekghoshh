@@ -28,7 +28,7 @@ Here's an overview of my activity and contributions:
 
 - **portfolio**: My personal portfolio using mkdocs
 - **feather**: Dependency Injection framework in java/scala/python
-- **hello**: A Distributed chat application
+- **hello**: A Distributed chat application with video calling facility
 - **man in middle**: A microservice to for mocking responses and for microservice testing
 - **forge**: A compiler written in C/Zig/rust
 - **knight**: A password manager application
