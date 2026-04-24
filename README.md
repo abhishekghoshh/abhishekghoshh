@@ -43,3 +43,11 @@ Here's an overview of my activity and contributions:
 - **torrent**: Make own bittorrent
 - **watcher**: Algorithm visualizer
 - **Finance tracker**: AI personalized finance tracker.
+- **Search Engine**: A basic system to crawl, index, and retrieve web pages based on user queries.
+- **AI-powered Search Engine**: An intelligent search system that uses NLP and ML to provide more contextual and relevant results.
+- **Verbal-style App**: A voice-based or conversational platform for communication, learning, or social interaction.
+- **Pollution/Traffic Route Detector**: An app that suggests optimal routes based on real-time pollution and traffic data.
+- **Skribble Game**: A multiplayer drawing and guessing game similar to online Pictionary.
+- **Banana Trading Company (with fake money)**: A simulation game where users trade bananas using virtual currency to learn market dynamics.
+- **Food Delivery App with Reels**: A food ordering platform enhanced with short video (reels) previews of dishes and restaurants.
+- **AI Agent Workflow Automation (like n8n)**: A system to design and automate workflows using AI agents and integrations across tools.
