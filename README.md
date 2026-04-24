@@ -35,6 +35,9 @@ Here's an overview of my activity and contributions:
 - **Editor**: A real time Editor by group of people
 - **man in middle**: A microservice to for mocking responses and for microservice testing
 - **forge**: A compiler written in C/Zig/rust
+- **Build Your Own Database**: Create a custom database system from scratch, covering storage engines, indexing, and query processing.
+- **Build Your Own OS Module**: Implement a simple operating system module inspired by Writing a Simple OS Kernel by Nick Blundell, focusing on low-level concepts like memory and interrupts.
+- **Build Your Own Programming Language**: Design and implement a programming language by following concepts from Crafting Interpreters, including parsing, ASTs, and execution.
 - **knight**: A password manager application
 - **matrix**: a vscode plugin to code and debug and then run it inside a a docker container
 - **mernal**: A minimal kernal written in C
